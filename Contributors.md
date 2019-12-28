@@ -317,6 +317,7 @@ Simranjit Kaur (https://github.com/SimranjitKaurMaan)
 - [Anwesha Mohanty](https://github.com/anwesha-mohanty)
 - [Cristian Pip3](https://github.com/CristianPip3)
 - [creep1g](https://github.com/creep1g)
+- [raniel_garcia](https://github.com/raniel12345)
 - [Kaustubh Joshi]
 - [Kareem Abuzaid](https://github.com/KareemAbuzaid)
 - [Ryan Marion]
